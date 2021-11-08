@@ -1,0 +1,37 @@
+num_item_id;aoa;item_id;definition;type;category;lexical_category;lexical_class;uni_lemma;complexity_category
+505;25;item_505;alto;word;descriptive_words;predicates;adjectives;high;NA
+508;27;item_508;arrabbiato;word;descriptive_words;predicates;adjectives;angry;NA
+509;27;item_509;asciutto;word;descriptive_words;predicates;adjectives;dry (description);NA
+510;29;item_510;attento;word;descriptive_words;predicates;adjectives;careful;NA
+511;24;item_511;bagnato;word;descriptive_words;predicates;adjectives;wet (description);NA
+512;20;item_512;bello;word;descriptive_words;predicates;adjectives;nice;NA
+515;21;item_515;brutto;word;descriptive_words;predicates;adjectives;ugly;NA
+516;22;item_516;buio;word;descriptive_words;predicates;adjectives;dark;NA
+517;22;item_517;buono;word;descriptive_words;predicates;adjectives;good;NA
+518;22;item_518;caldo;word;descriptive_words;predicates;adjectives;hot;NA
+520;31;item_520;carino;word;descriptive_words;predicates;adjectives;cute;NA
+521;24;item_521;cattivo;word;descriptive_words;predicates;adjectives;bad;NA
+522;32;item_522;contento;word;descriptive_words;predicates;adjectives;happy;NA
+525;27;item_525;dolce;word;descriptive_words;predicates;adjectives;sweet;NA
+526;28;item_526;duro;word;descriptive_words;predicates;adjectives;hard;NA
+527;32;item_527;felice;word;descriptive_words;predicates;adjectives;happy;NA
+529;26;item_529;finito;word;descriptive_words;predicates;adjectives;finished;NA
+530;28;item_530;forte;word;descriptive_words;predicates;adjectives;loud;NA
+531;23;item_531;freddo;word;descriptive_words;predicates;adjectives;cold;NA
+533;25;item_533;giallo;word;descriptive_words;predicates;adjectives;yellow;NA
+534;23;item_534;grande/grosso;word;descriptive_words;predicates;adjectives;big;NA
+538;28;item_538;malato;word;descriptive_words;predicates;adjectives;sick;NA
+540;30;item_540;morbido;word;descriptive_words;predicates;adjectives;soft;NA
+541;28;item_541;nero;word;descriptive_words;predicates;adjectives;black;NA
+542;28;item_542;nuovo;word;descriptive_words;predicates;adjectives;new;NA
+544;28;item_544;pesante;word;descriptive_words;predicates;adjectives;heavy;NA
+545;26;item_545;piano;word;descriptive_words;predicates;adjectives;slow;NA
+546;23;item_546;piccolo;word;descriptive_words;predicates;adjectives;little (description);NA
+547;29;item_547;pieno;word;descriptive_words;predicates;adjectives;full;NA
+549;25;item_549;pulito;word;descriptive_words;predicates;adjectives;clean (description);NA
+550;24;item_550;rosso;word;descriptive_words;predicates;adjectives;red;NA
+551;21;item_551;rotto;word;descriptive_words;predicates;adjectives;broken;NA
+557;22;item_557;sporco;word;descriptive_words;predicates;adjectives;dirty;NA
+558;26;item_558;stanco;word;descriptive_words;predicates;adjectives;tired;NA
+561;33;item_561;triste;word;descriptive_words;predicates;adjectives;sad;NA
+566;28;item_566;vuoto;word;descriptive_words;predicates;adjectives;empty;NA

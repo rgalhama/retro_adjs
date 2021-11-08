@@ -1,0 +1,149 @@
+num_item_id;aoa;item_id;definition;type;category;lexical_category;lexical_class;uni_lemma;complexity_category
+333;19;item_333;all gone;word;descriptive_words;predicates;adjectives;all gone;NA
+334;24;item_334;asleep;word;descriptive_words;predicates;adjectives;asleep;NA
+335;27;item_335;bad;word;descriptive_words;predicates;adjectives;bad;NA
+336;25;item_336;big;word;descriptive_words;predicates;adjectives;big;NA
+337;24;item_337;blue;word;descriptive_words;predicates;adjectives;blue;NA
+338;24;item_338;broken;word;descriptive_words;predicates;adjectives;broken;NA
+339;25;item_339;careful;word;descriptive_words;predicates;adjectives;careful;NA
+340;24;item_340;clean;word;descriptive_words;predicates;adjectives;clean (description);NA
+341;23;item_341;cold;word;descriptive_words;predicates;adjectives;cold;NA
+342;24;item_342;dark;word;descriptive_words;predicates;adjectives;dark;NA
+343;22;item_343;dirty;word;descriptive_words;predicates;adjectives;dirty;NA
+344;26;item_344;dry;word;descriptive_words;predicates;adjectives;dry (description);NA
+345;26;item_345;empty;word;descriptive_words;predicates;adjectives;empty;NA
+346;25;item_346;fast;word;descriptive_words;predicates;adjectives;fast;NA
+347;27;item_347;fine;word;descriptive_words;predicates;adjectives;fine;NA
+348;26;item_348;gentle;word;descriptive_words;predicates;adjectives;gentle;NA
+349;26;item_349;good;word;descriptive_words;predicates;adjectives;good;NA
+350;24;item_350;green;word;descriptive_words;predicates;adjectives;green;NA
+351;25;item_351;happy;word;descriptive_words;predicates;adjectives;happy;NA
+352;26;item_352;hard;word;descriptive_words;predicates;adjectives;hard;NA
+353;21;item_353;hot;word;descriptive_words;predicates;adjectives;hot;NA
+354;25;item_354;hungry;word;descriptive_words;predicates;adjectives;hungry;NA
+355;25;item_355;hurt;word;descriptive_words;predicates;adjectives;hurt (description);NA
+356;25;item_356;little;word;descriptive_words;predicates;adjectives;little (description);NA
+358;25;item_358;naughty;word;descriptive_words;predicates;adjectives;naughty;NA
+359;25;item_359;nice;word;descriptive_words;predicates;adjectives;nice;NA
+360;29;item_360;old;word;descriptive_words;predicates;adjectives;old;NA
+361;25;item_361;pretty;word;descriptive_words;predicates;adjectives;pretty;NA
+362;23;item_362;red;word;descriptive_words;predicates;adjectives;red;NA
+363;25;item_363;sad;word;descriptive_words;predicates;adjectives;sad;NA
+364;26;item_364;scared;word;descriptive_words;predicates;adjectives;scared;NA
+365;26;item_365;sick;word;descriptive_words;predicates;adjectives;sick;NA
+366;26;item_366;sleepy;word;descriptive_words;predicates;adjectives;sleepy;NA
+367;27;item_367;soft;word;descriptive_words;predicates;adjectives;soft;NA
+368;26;item_368;thirsty;word;descriptive_words;predicates;adjectives;thirsty;NA
+369;25;item_369;tired;word;descriptive_words;predicates;adjectives;tired;NA
+370;23;item_370;wet;word;descriptive_words;predicates;adjectives;wet (description);NA
+371;24;item_371;yellow;word;descriptive_words;predicates;adjectives;yellow;NA
+493;19;item_493;all gone;word;descriptive_words;predicates;adjectives;all gone;NA
+494;24;item_494;asleep;word;descriptive_words;predicates;adjectives;asleep;NA
+496;28;item_496;bad;word;descriptive_words;predicates;adjectives;bad;NA
+498;24;item_498;big;word;descriptive_words;predicates;adjectives;big;NA
+499;27;item_499;black;word;descriptive_words;predicates;adjectives;black;NA
+500;24;item_500;blue;word;descriptive_words;predicates;adjectives;blue;NA
+501;24;item_501;broken;word;descriptive_words;predicates;adjectives;broken;NA
+503;26;item_503;careful;word;descriptive_words;predicates;adjectives;careful;NA
+504;20;item_504;all gone;word;descriptive_words;predicates;adjectives;all gone;
+504;20;item_504;clean;word;descriptive_words;predicates;adjectives;clean (description);NA
+505;24;item_505;asleep;word;descriptive_words;predicates;adjectives;asleep;
+505;24;item_505;cold;word;descriptive_words;predicates;adjectives;cold;NA
+506;26;item_506;awake;word;descriptive_words;predicates;adjectives;awake;
+506;26;item_506;cute;word;descriptive_words;predicates;adjectives;cute;NA
+507;25;item_507;bad;word;descriptive_words;predicates;adjectives;bad;
+507;25;item_507;dark;word;descriptive_words;predicates;adjectives;dark;NA
+508;26;item_508;better;word;descriptive_words;predicates;adjectives;better;
+508;26;item_508;dirty;word;descriptive_words;predicates;adjectives;dirty;NA
+509;23;item_509;big;word;descriptive_words;predicates;adjectives;big;
+509;23;item_509;dry;word;descriptive_words;predicates;adjectives;dry (description);NA
+510;27;item_510;black;word;descriptive_words;predicates;adjectives;black;
+510;27;item_510;easy;word;descriptive_words;predicates;adjectives;easy;NA
+511;23;item_511;blue;word;descriptive_words;predicates;adjectives;blue;
+511;23;item_511;empty;word;descriptive_words;predicates;adjectives;empty;NA
+512;24;item_512;broken;word;descriptive_words;predicates;adjectives;broken;
+512;24;item_512;fast;word;descriptive_words;predicates;adjectives;fast;NA
+513;28;item_513;brown;word;descriptive_words;predicates;adjectives;brown;
+513;28;item_513;fine;word;descriptive_words;predicates;adjectives;fine;NA
+514;26;item_514;careful;word;descriptive_words;predicates;adjectives;careful;
+515;24;item_515;clean (description);word;descriptive_words;predicates;adjectives;clean (description);
+515;24;item_515;full;word;descriptive_words;predicates;adjectives;full;NA
+516;22;item_516;cold;word;descriptive_words;predicates;adjectives;cold;
+516;22;item_516;gentle;word;descriptive_words;predicates;adjectives;gentle;NA
+517;27;item_517;cute;word;descriptive_words;predicates;adjectives;cute;
+517;27;item_517;good;word;descriptive_words;predicates;adjectives;good;NA
+518;26;item_518;dark;word;descriptive_words;predicates;adjectives;dark;
+518;26;item_518;green;word;descriptive_words;predicates;adjectives;green;NA
+519;23;item_519;dirty;word;descriptive_words;predicates;adjectives;dirty;
+519;23;item_519;happy;word;descriptive_words;predicates;adjectives;happy;NA
+520;26;item_520;dry (description);word;descriptive_words;predicates;adjectives;dry (description);
+520;26;item_520;hard;word;descriptive_words;predicates;adjectives;hard;NA
+521;26;item_521;empty;word;descriptive_words;predicates;adjectives;empty;
+521;26;item_521;heavy;word;descriptive_words;predicates;adjectives;heavy;NA
+522;26;item_522;fast;word;descriptive_words;predicates;adjectives;fast;
+522;26;item_522;high;word;descriptive_words;predicates;adjectives;high;NA
+523;29;item_523;fine;word;descriptive_words;predicates;adjectives;fine;
+523;29;item_523;hot;word;descriptive_words;predicates;adjectives;hot;NA
+524;28;item_524;first;word;descriptive_words;predicates;adjectives;first;
+524;28;item_524;hungry;word;descriptive_words;predicates;adjectives;hungry;NA
+525;27;item_525;full;word;descriptive_words;predicates;adjectives;full;
+525;27;item_525;hurt;word;descriptive_words;predicates;adjectives;hurt (description);NA
+526;29;item_526;gentle;word;descriptive_words;predicates;adjectives;gentle;
+527;24;item_527;good;word;descriptive_words;predicates;adjectives;good;
+527;24;item_527;little;word;descriptive_words;predicates;adjectives;little (description);NA
+528;25;item_528;green;word;descriptive_words;predicates;adjectives;green;
+529;25;item_529;happy;word;descriptive_words;predicates;adjectives;happy;
+529;25;item_529;loud;word;descriptive_words;predicates;adjectives;loud;NA
+530;28;item_530;hard;word;descriptive_words;predicates;adjectives;hard;
+530;28;item_530;mad;word;descriptive_words;predicates;adjectives;angry;NA
+531;26;item_531;heavy;word;descriptive_words;predicates;adjectives;heavy;
+532;26;item_532;high;word;descriptive_words;predicates;adjectives;high;
+532;26;item_532;naughty;word;descriptive_words;predicates;adjectives;naughty;NA
+533;20;item_533;hot;word;descriptive_words;predicates;adjectives;hot;
+533;20;item_533;new;word;descriptive_words;predicates;adjectives;new;NA
+534;24;item_534;hungry;word;descriptive_words;predicates;adjectives;hungry;
+534;24;item_534;nice;word;descriptive_words;predicates;adjectives;nice;NA
+535;25;item_535;hurt;word;descriptive_words;predicates;adjectives;hurt (description);
+537;25;item_537;little (description);word;descriptive_words;predicates;adjectives;little (description);
+537;25;item_537;orange;word;descriptive_words;predicates;adjectives;orange (description);NA
+538;30;item_538;long;word;descriptive_words;predicates;adjectives;long;
+539;26;item_539;loud;word;descriptive_words;predicates;adjectives;loud;
+539;26;item_539;pretty;word;descriptive_words;predicates;adjectives;pretty;NA
+540;28;item_540;mad;word;descriptive_words;predicates;adjectives;mad;
+542;27;item_542;new;word;descriptive_words;predicates;adjectives;new;
+542;27;item_542;sad;word;descriptive_words;predicates;adjectives;sad;NA
+543;26;item_543;nice;word;descriptive_words;predicates;adjectives;nice;
+543;26;item_543;scared;word;descriptive_words;predicates;adjectives;scared;NA
+544;28;item_544;noisy;word;descriptive_words;predicates;adjectives;noisy;
+544;28;item_544;sick;word;descriptive_words;predicates;adjectives;sick;NA
+545;29;item_545;old;word;descriptive_words;predicates;adjectives;old;
+545;29;item_545;sleepy;word;descriptive_words;predicates;adjectives;sleepy;NA
+546;25;item_546;orange (description);word;descriptive_words;predicates;adjectives;orange (description);
+546;25;item_546;slow;word;descriptive_words;predicates;adjectives;slow;NA
+548;25;item_548;pretty;word;descriptive_words;predicates;adjectives;pretty;
+549;26;item_549;quiet;word;descriptive_words;predicates;adjectives;quiet;
+550;24;item_550;red;word;descriptive_words;predicates;adjectives;red;
+550;24;item_550;thirsty;word;descriptive_words;predicates;adjectives;thirsty;NA
+551;27;item_551;sad;word;descriptive_words;predicates;adjectives;sad;
+551;27;item_551;tiny;word;descriptive_words;predicates;adjectives;little (description);NA
+552;26;item_552;scared;word;descriptive_words;predicates;adjectives;scared;
+552;26;item_552;tired;word;descriptive_words;predicates;adjectives;tired;NA
+553;26;item_553;sick;word;descriptive_words;predicates;adjectives;sick;
+553;26;item_553;wet;word;descriptive_words;predicates;adjectives;wet (description);NA
+554;26;item_554;sleepy;word;descriptive_words;predicates;adjectives;sleepy;
+554;26;item_554;white;word;descriptive_words;predicates;adjectives;white;NA
+555;28;item_555;slow;word;descriptive_words;predicates;adjectives;slow;
+556;26;item_556;soft;word;descriptive_words;predicates;adjectives;soft;
+556;26;item_556;yellow;word;descriptive_words;predicates;adjectives;yellow;NA
+557;25;item_557;sticky;word;descriptive_words;predicates;adjectives;sticky;
+557;25;item_557;yucky;word;descriptive_words;predicates;adjectives;yucky;NA
+558;25;item_558;stuck;word;descriptive_words;predicates;adjectives;stuck;
+558;25;item_558;yummy;word;descriptive_words;predicates;adjectives;tasty;NA
+559;26;item_559;thirsty;word;descriptive_words;predicates;adjectives;thirsty;
+560;30;item_560;tiny;word;descriptive_words;predicates;adjectives;tiny;
+561;26;item_561;tired;word;descriptive_words;predicates;adjectives;tired;
+562;22;item_562;wet;word;descriptive_words;predicates;adjectives;wet (description);
+563;27;item_563;white;word;descriptive_words;predicates;adjectives;white;
+564;27;item_564;windy;word;descriptive_words;predicates;adjectives;windy;
+565;24;item_565;yellow;word;descriptive_words;predicates;adjectives;yellow;
+566;22;item_566;yucky;word;descriptive_words;predicates;adjectives;yucky;

@@ -1,0 +1,204 @@
+num_item_id;aoa;item_id;definition;type;category;lexical_category;lexical_class;uni_lemma;complexity_category
+1;30;item_1;organo genitale femminile;word;body_parts;nouns;nouns;vagina;NA
+2;22;item_2;orecchio;word;body_parts;nouns;nouns;ear;NA
+3;25;item_3;ombelico;word;body_parts;nouns;nouns;belly button;NA
+4;20;item_4;occhio;word;body_parts;nouns;nouns;eye;NA
+5;20;item_5;naso;word;body_parts;nouns;nouns;nose;NA
+6;19;item_6;mano;word;body_parts;nouns;nouns;hand;NA
+7;24;item_7;lingua;word;body_parts;nouns;nouns;tongue;NA
+12;23;item_12;gambe;word;body_parts;nouns;nouns;leg;NA
+13;25;item_13;faccia;word;body_parts;nouns;nouns;face;NA
+14;21;item_14;dito;word;body_parts;nouns;nouns;finger;NA
+15;21;item_15;denti;word;body_parts;nouns;nouns;tooth;NA
+17;20;item_17;capelli;word;body_parts;nouns;nouns;hair;NA
+18;24;item_18;braccio;word;body_parts;nouns;nouns;arm;NA
+19;20;item_19;bocca;word;body_parts;nouns;nouns;mouth;NA
+20;26;item_20;vestito;word;clothing;nouns;nouns;dress (object);NA
+21;25;item_21;tuta;word;clothing;nouns;nouns;tracksuit;NA
+23;27;item_23;sciarpa;word;clothing;nouns;nouns;scarf;NA
+24;18;item_24;scarpe;word;clothing;nouns;nouns;shoe;NA
+25;24;item_25;pigiama;word;clothing;nouns;nouns;pajamas;NA
+27;24;item_27;pantaloni;word;clothing;nouns;nouns;pants;NA
+28;22;item_28;pannolino;word;clothing;nouns;nouns;diaper;NA
+29;22;item_29;occhiali;word;clothing;nouns;nouns;glasses;NA
+30;25;item_30;mutande;word;clothing;nouns;nouns;underpants;NA
+31;27;item_31;maglione;word;clothing;nouns;nouns;sweater;NA
+33;26;item_33;guanti;word;clothing;nouns;nouns;gloves;NA
+35;28;item_35;gonna;word;clothing;nouns;nouns;skirt;NA
+36;26;item_36;giacca;word;clothing;nouns;nouns;jacket;NA
+37;25;item_37;collana;word;clothing;nouns;nouns;necklace;NA
+39;24;item_39;cappotto;word;clothing;nouns;nouns;coat;NA
+40;22;item_40;cappello;word;clothing;nouns;nouns;hat;NA
+43;23;item_43;calze;word;clothing;nouns;nouns;sock;NA
+45;25;item_45;bottone;word;clothing;nouns;nouns;button;NA
+49;23;item_49;zucchero;word;food_drink;nouns;nouns;sugar;NA
+50;24;item_50;yogurt;word;food_drink;nouns;nouns;yogurt;NA
+53;22;item_53;uva;word;food_drink;nouns;nouns;grapes;NA
+54;21;item_54;uovo;word;food_drink;nouns;nouns;egg;NA
+56;22;item_56;torta;word;food_drink;nouns;nouns;cake;NA
+59;27;item_59;sugo;word;food_drink;nouns;nouns;sauce;NA
+64;24;item_64;riso;word;food_drink;nouns;nouns;rice;NA
+66;26;item_66;polpette;word;food_drink;nouns;nouns;meatball;NA
+67;22;item_67;pollo;word;food_drink;nouns;nouns;chicken (food);NA
+69;26;item_69;piselli;word;food_drink;nouns;nouns;peas;NA
+70;28;item_70;pesca;word;food_drink;nouns;nouns;peach;NA
+71;21;item_71;pera;word;food_drink;nouns;nouns;pear;NA
+72;25;item_72;patatine;word;food_drink;nouns;nouns;chips;NA
+73;22;item_73;patate;word;food_drink;nouns;nouns;potato;NA
+74;21;item_74;pasta;word;food_drink;nouns;nouns;pasta;NA
+75;18;item_75;pappa;word;food_drink;nouns;nouns;baby food;NA
+78;18;item_78;pane;word;food_drink;nouns;nouns;bread;NA
+82;28;item_82;miele;word;food_drink;nouns;nouns;honey;NA
+84;19;item_84;mela;word;food_drink;nouns;nouns;apple;NA
+88;18;item_88;latte;word;food_drink;nouns;nouns;milk;NA
+92;21;item_92;gelato;word;food_drink;nouns;nouns;ice cream;NA
+94;22;item_94;formaggio;word;food_drink;nouns;nouns;cheese;NA
+98;25;item_98;cracker;word;food_drink;nouns;nouns;cracker;NA
+101;24;item_101;cioccolata;word;food_drink;nouns;nouns;chocolate;NA
+103;25;item_103;carote;word;food_drink;nouns;nouns;carrots;NA
+104;19;item_104;carne;word;food_drink;nouns;nouns;meat;NA
+105;20;item_105;caramella;word;food_drink;nouns;nouns;candy;NA
+111;18;item_111;biscotti;word;food_drink;nouns;nouns;cookie;NA
+112;20;item_112;banana;word;food_drink;nouns;nouns;banana;NA
+114;25;item_114;arancia;word;food_drink;nouns;nouns;orange (food);NA
+115;18;item_115;acqua;word;food_drink;nouns;nouns;water (beverage);NA
+116;30;item_116;trottola;word;toys;nouns;nouns;top;NA
+121;26;item_121;secchiello;word;toys;nouns;nouns;bucket;NA
+123;27;item_123;pistola;word;toys;nouns;nouns;gun;NA
+125;18;item_125;palla;word;toys;nouns;nouns;ball;NA
+126;25;item_126;paletta;word;toys;nouns;nouns;spade;NA
+127;25;item_127;giocattolo;word;toys;nouns;nouns;toy (object);NA
+128;26;item_128;favola/storia;word;toys;nouns;nouns;book;NA
+129;30;item_129;cubi;word;toys;nouns;nouns;block;NA
+133;22;item_133;bambola;word;toys;nouns;nouns;doll;NA
+134;22;item_134;treno;word;vehicles;nouns;nouns;train;NA
+135;26;item_135;trattore;word;vehicles;nouns;nouns;tractor;NA
+137;23;item_137;passeggino;word;vehicles;nouns;nouns;stroller;NA
+138;26;item_138;motocicletta;word;vehicles;nouns;nouns;motorcycle;NA
+139;36;item_139;jeep;word;vehicles;nouns;nouns;jeep;NA
+140;30;item_140;gru;word;vehicles;nouns;nouns;crane;NA
+142;24;item_142;camion;word;vehicles;nouns;nouns;truck;NA
+143;22;item_143;bicicletta;word;vehicles;nouns;nouns;bicycle;NA
+144;24;item_144;barca;word;vehicles;nouns;nouns;boat;NA
+145;24;item_145;automobile;word;vehicles;nouns;nouns;car;NA
+146;26;item_146;autobus;word;vehicles;nouns;nouns;bus;NA
+147;22;item_147;aereo;word;vehicles;nouns;nouns;airplane;NA
+149;26;item_149;zanzara;word;animals;nouns;nouns;mosquito;NA
+150;24;item_150;uccellino;word;animals;nouns;nouns;bird;NA
+151;25;item_151;topo;word;animals;nouns;nouns;mouse;NA
+152;27;item_152;tigre;word;animals;nouns;nouns;tiger;NA
+153;25;item_153;tartaruga;word;animals;nouns;nouns;turtle;NA
+156;26;item_156;scimmia;word;animals;nouns;nouns;monkey;NA
+157;26;item_157;rana;word;animals;nouns;nouns;frog;NA
+158;26;item_158;pulcino;word;animals;nouns;nouns;chick;NA
+159;30;item_159;pinguino;word;animals;nouns;nouns;penguin;NA
+160;22;item_160;pesciolino;word;animals;nouns;nouns;fish (animal);NA
+161;24;item_161;pecora;word;animals;nouns;nouns;sheep;NA
+162;26;item_162;papera;word;animals;nouns;nouns;duck;NA
+163;24;item_163;orso;word;animals;nouns;nouns;bear;NA
+164;27;item_164;oca;word;animals;nouns;nouns;goose;NA
+165;22;item_165;mucca;word;animals;nouns;nouns;cow;NA
+166;25;item_166;mosca;word;animals;nouns;nouns;fly (animal);NA
+167;26;item_167;maiale;word;animals;nouns;nouns;pig;NA
+168;23;item_168;lupo;word;animals;nouns;nouns;wolf;NA
+169;24;item_169;leone;word;animals;nouns;nouns;lion;NA
+170;29;item_170;ippopotamo;word;animals;nouns;nouns;hippopotamus;NA
+172;26;item_172;giraffa;word;animals;nouns;nouns;giraffe;NA
+173;20;item_173;gatto;word;animals;nouns;nouns;cat;NA
+174;25;item_174;gallo;word;animals;nouns;nouns;rooster;NA
+175;24;item_175;gallina;word;animals;nouns;nouns;hen;NA
+176;25;item_176;formica;word;animals;nouns;nouns;ant;NA
+178;24;item_178;farfalla;word;animals;nouns;nouns;butterfly;NA
+179;24;item_179;elefante;word;animals;nouns;nouns;elephant;NA
+181;26;item_181;coniglio;word;animals;nouns;nouns;bunny;NA
+182;26;item_182;coccodrillo;word;animals;nouns;nouns;crocodile;NA
+183;33;item_183;cerbiatto;word;animals;nouns;nouns;fawn;NA
+184;21;item_184;cavallo;word;animals;nouns;nouns;horse;NA
+185;30;item_185;capra;word;animals;nouns;nouns;goat;NA
+186;20;item_186;cane;word;animals;nouns;nouns;dog;NA
+187;29;item_187;asino;word;animals;nouns;nouns;donkey;NA
+189;27;item_189;animale;word;animals;nouns;nouns;animal;NA
+190;36;item_190;agnello;word;animals;nouns;nouns;lamb;NA
+203;26;item_203;organo genitale maschile;word;body_parts;nouns;nouns;penis;NA
+204;21;item_204;pancia;word;body_parts;nouns;nouns;tummy;NA
+205;20;item_205;piede;word;body_parts;nouns;nouns;feet;NA
+206;23;item_206;sederino;word;body_parts;nouns;nouns;butt;NA
+207;26;item_207;seno;word;body_parts;nouns;nouns;breast;NA
+209;22;item_209;testa;word;body_parts;nouns;nouns;head;NA
+213;21;item_213;biberon;word;household;nouns;nouns;bottle;NA
+214;22;item_214;bicchiere;word;household;nouns;nouns;glass;NA
+215;24;item_215;bottiglia;word;household;nouns;nouns;bottle;NA
+218;21;item_218;chiave;word;household;nouns;nouns;keys;NA
+219;18;item_219;ciuccio;word;household;nouns;nouns;pacifier;NA
+221;23;item_221;coltello;word;household;nouns;nouns;knife;NA
+222;29;item_222;coperchio;word;household;nouns;nouns;cover (object);NA
+223;25;item_223;coperta;word;household;nouns;nouns;blanket;NA
+224;21;item_224;cucchiaio;word;household;nouns;nouns;spoon;NA
+225;24;item_225;cuscino;word;household;nouns;nouns;pillow;NA
+228;26;item_228;fazzoletto;word;household;nouns;nouns;tissue;NA
+229;25;item_229;forbici;word;household;nouns;nouns;scissors;NA
+230;22;item_230;forchetta;word;household;nouns;nouns;fork;NA
+232;26;item_232;giornale;word;household;nouns;nouns;paper;NA
+233;20;item_233;luce;word;household;nouns;nouns;light (object);NA
+234;22;item_234;libro;word;household;nouns;nouns;book;NA
+235;27;item_235;martello;word;household;nouns;nouns;hammer;NA
+236;20;item_236;matita/penna;word;household;nouns;nouns;pen/pencil;NA
+238;25;item_238;musica;word;household;nouns;nouns;music;NA
+239;24;item_239;ombrello;word;household;nouns;nouns;umbrella;NA
+240;21;item_240;orologio;word;household;nouns;nouns;clock;NA
+241;27;item_241;pentola;word;household;nouns;nouns;pot;NA
+242;24;item_242;pettine;word;household;nouns;nouns;comb (object);NA
+243;27;item_243;pianta;word;household;nouns;nouns;plant;NA
+244;22;item_244;piatto;word;household;nouns;nouns;dish;NA
+246;23;item_246;sapone;word;household;nouns;nouns;soap;NA
+247;27;item_247;scatola;word;household;nouns;nouns;box;NA
+248;23;item_248;scopa;word;household;nouns;nouns;broom;NA
+251;23;item_251;soldi;word;household;nouns;nouns;money;NA
+252;25;item_252;spazzolino da denti;word;household;nouns;nouns;toothbrush;NA
+253;26;item_253;specchio;word;household;nouns;nouns;mirror;NA
+255;23;item_255;tappo;word;household;nouns;nouns;cap;NA
+256;25;item_256;tazza;word;household;nouns;nouns;cup;NA
+257;22;item_257;telefono;word;household;nouns;nouns;telephone;NA
+260;26;item_260;vasino;word;household;nouns;nouns;potty;NA
+261;27;item_261;armadio;word;furniture_rooms;nouns;nouns;closet;NA
+262;22;item_262;bagno;word;furniture_rooms;nouns;nouns;bathroom;NA
+263;27;item_263;bidè;word;furniture_rooms;nouns;nouns;bidet;NA
+264;25;item_264;camera;word;furniture_rooms;nouns;nouns;room;NA
+266;26;item_266;cassetto;word;furniture_rooms;nouns;nouns;drawer;NA
+267;24;item_267;cucina;word;furniture_rooms;nouns;nouns;kitchen;NA
+268;31;item_268;culla;word;furniture_rooms;nouns;nouns;crib;NA
+269;25;item_269;divano;word;furniture_rooms;nouns;nouns;couch;NA
+270;24;item_270;doccia;word;furniture_rooms;nouns;nouns;shower;NA
+272;25;item_272;finestra;word;furniture_rooms;nouns;nouns;window;NA
+275;26;item_275;frigorifero;word;furniture_rooms;nouns;nouns;refrigerator;NA
+276;27;item_276;lavandino;word;furniture_rooms;nouns;nouns;sink;NA
+277;26;item_277;lavatrice;word;furniture_rooms;nouns;nouns;washing machine;NA
+278;21;item_278;letto;word;furniture_rooms;nouns;nouns;bed;NA
+281;22;item_281;porta;word;furniture_rooms;nouns;nouns;door;NA
+285;32;item_285;salotto;word;furniture_rooms;nouns;nouns;living room;NA
+286;24;item_286;scala;word;furniture_rooms;nouns;nouns;stairs;NA
+287;22;item_287;sedia;word;furniture_rooms;nouns;nouns;chair;NA
+288;26;item_288;seggiolone;word;furniture_rooms;nouns;nouns;high chair;NA
+289;28;item_289;tappeto;word;furniture_rooms;nouns;nouns;carpet;NA
+290;24;item_290;tavolo;word;furniture_rooms;nouns;nouns;table;NA
+291;24;item_291;televisione/TV;word;furniture_rooms;nouns;nouns;tv;NA
+292;32;item_292;terrazza;word;furniture_rooms;nouns;nouns;porch;NA
+293;28;item_293;vasca da bagno;word;furniture_rooms;nouns;nouns;bathtub;NA
+294;23;item_294;albero;word;outside;nouns;nouns;tree;NA
+295;25;item_295;altalena;word;outside;nouns;nouns;swing (object);NA
+296;26;item_296;ascensore;word;outside;nouns;nouns;elevator;NA
+300;24;item_300;cielo;word;outside;nouns;nouns;sky;NA
+302;22;item_302;fiore;word;outside;nouns;nouns;flower;NA
+306;29;item_306;garage;word;outside;nouns;nouns;garage;NA
+307;22;item_307;luna;word;outside;nouns;nouns;moon;NA
+309;26;item_309;neve;word;outside;nouns;nouns;snow;NA
+310;27;item_310;nuvola;word;outside;nouns;nouns;cloud;NA
+311;24;item_311;pioggia;word;outside;nouns;nouns;rain;NA
+314;28;item_314;prato;word;outside;nouns;nouns;lawn;NA
+315;23;item_315;sasso;word;outside;nouns;nouns;stone;NA
+316;25;item_316;scivolo;word;outside;nouns;nouns;slide (object);NA
+317;21;item_317;sole;word;outside;nouns;nouns;sun;NA
+318;24;item_318;stella;word;outside;nouns;nouns;star;NA
+319;26;item_319;strada;word;outside;nouns;nouns;street;NA
+320;24;item_320;terra;word;outside;nouns;nouns;earth;NA
+324;25;item_324;vento;word;outside;nouns;nouns;wind;NA

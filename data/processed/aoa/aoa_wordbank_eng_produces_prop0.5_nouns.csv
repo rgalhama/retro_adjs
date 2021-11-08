@@ -1,0 +1,743 @@
+num_item_id;aoa;item_id;definition;type;category;lexical_category;lexical_class;uni_lemma;complexity_category
+13;25;item_13;alligator;word;animals;nouns;nouns;alligator;
+13;25;item_13;animal;word;animals;nouns;nouns;animal;NA
+14;24;item_14;animal;word;animals;nouns;nouns;animal;
+14;24;item_14;ant;word;animals;nouns;nouns;ant;NA
+14;24;item_14;bear;word;animals;nouns;nouns;bear;NA
+15;24;item_15;ant;word;animals;nouns;nouns;ant;
+15;24;item_15;bear;word;animals;nouns;nouns;bear;NA
+15;24;item_15;bee;word;animals;nouns;nouns;bee;NA
+16;20;item_16;bear;word;animals;nouns;nouns;bear;
+16;20;item_16;bee;word;animals;nouns;nouns;bee;NA
+16;20;item_16;bird;word;animals;nouns;nouns;bird;NA
+17;21;item_17;bee;word;animals;nouns;nouns;bee;
+17;21;item_17;bird;word;animals;nouns;nouns;bird;NA
+17;21;item_17;bunny / rabbit;word;animals;nouns;nouns;bunny;NA
+18;20;item_18;bird;word;animals;nouns;nouns;bird;
+18;20;item_18;bug;word;animals;nouns;nouns;bug;NA
+18;20;item_18;butterfly;word;animals;nouns;nouns;butterfly;NA
+19;21;item_19;bug;word;animals;nouns;nouns;bug;
+19;21;item_19;bunny/rabbit;word;animals;nouns;nouns;bunny;NA
+19;21;item_19;cat;word;animals;nouns;nouns;cat;NA
+20;21;item_20;bunny;word;animals;nouns;nouns;bunny;
+20;21;item_20;butterfly;word;animals;nouns;nouns;butterfly;NA
+20;21;item_20;chicken;word;animals;nouns;nouns;chicken (animal);NA
+21;22;item_21;butterfly;word;animals;nouns;nouns;butterfly;
+21;22;item_21;(pussy)cat;word;animals;nouns;nouns;cat;NA
+21;22;item_21;cow;word;animals;nouns;nouns;cow;NA
+22;21;item_22;cat;word;animals;nouns;nouns;cat;
+22;21;item_22;donkey;word;animals;nouns;nouns;donkey;NA
+22;21;item_22;deer;word;animals;nouns;nouns;deer;NA
+23;21;item_23;chicken (animal);word;animals;nouns;nouns;chicken (animal);
+23;21;item_23;duck;word;animals;nouns;nouns;duck;NA
+23;21;item_23;dog;word;animals;nouns;nouns;dog;NA
+24;22;item_24;cow;word;animals;nouns;nouns;cow;
+24;22;item_24;elephant;word;animals;nouns;nouns;elephant;NA
+24;22;item_24;donkey;word;animals;nouns;nouns;donkey;NA
+25;24;item_25;deer;word;animals;nouns;nouns;deer;
+25;24;item_25;fish;word;animals;nouns;nouns;fish (animal);NA
+25;24;item_25;duck;word;animals;nouns;nouns;duck;NA
+26;19;item_26;dog;word;animals;nouns;nouns;dog;
+26;19;item_26;frog;word;animals;nouns;nouns;frog;NA
+26;19;item_26;elephant;word;animals;nouns;nouns;elephant;NA
+27;27;item_27;donkey;word;animals;nouns;nouns;donkey;
+27;27;item_27;giraffe;word;animals;nouns;nouns;giraffe;NA
+27;27;item_27;fish;word;animals;nouns;nouns;fish (animal);NA
+28;21;item_28;duck;word;animals;nouns;nouns;duck;
+28;21;item_28;goose;word;animals;nouns;nouns;goose;NA
+28;21;item_28;frog;word;animals;nouns;nouns;frog;NA
+29;23;item_29;elephant;word;animals;nouns;nouns;elephant;
+29;23;item_29;horse;word;animals;nouns;nouns;horse;NA
+29;23;item_29;giraffe;word;animals;nouns;nouns;giraffe;NA
+30;22;item_30;fish (animal);word;animals;nouns;nouns;fish (animal);
+30;22;item_30;kangaroo/roo;word;animals;nouns;nouns;kangaroo;NA
+30;22;item_30;goose;word;animals;nouns;nouns;goose;NA
+31;23;item_31;frog;word;animals;nouns;nouns;frog;
+31;23;item_31;owl;word;animals;nouns;nouns;owl;NA
+31;23;item_31;horse;word;animals;nouns;nouns;horse;NA
+32;25;item_32;giraffe;word;animals;nouns;nouns;giraffe;
+32;25;item_32;penguin;word;animals;nouns;nouns;penguin;NA
+32;25;item_32;kitten;word;animals;nouns;nouns;kitty;NA
+33;26;item_33;goose;word;animals;nouns;nouns;goose;
+33;26;item_33;pig;word;animals;nouns;nouns;pig;NA
+33;26;item_33;lamb;word;animals;nouns;nouns;lamb;NA
+34;29;item_34;hen;word;animals;nouns;nouns;hen;
+34;29;item_34;pony;word;animals;nouns;nouns;pony;NA
+34;29;item_34;lion;word;animals;nouns;nouns;lion;NA
+35;22;item_35;horse;word;animals;nouns;nouns;horse;
+35;22;item_35;monkey;word;animals;nouns;nouns;monkey;NA
+36;20;item_36;kitty;word;animals;nouns;nouns;kitty;
+36;20;item_36;puppy;word;animals;nouns;nouns;puppy;NA
+36;20;item_36;mouse;word;animals;nouns;nouns;mouse;NA
+37;26;item_37;lamb;word;animals;nouns;nouns;lamb;
+37;26;item_37;sheep;word;animals;nouns;nouns;sheep;NA
+37;26;item_37;owl;word;animals;nouns;nouns;owl;NA
+38;23;item_38;lion;word;animals;nouns;nouns;lion;
+38;23;item_38;snake;word;animals;nouns;nouns;snake;NA
+38;23;item_38;penguin;word;animals;nouns;nouns;penguin;NA
+39;22;item_39;monkey;word;animals;nouns;nouns;monkey;
+39;22;item_39;spider;word;animals;nouns;nouns;spider;NA
+39;22;item_39;pig;word;animals;nouns;nouns;pig;NA
+40;29;item_40;moose;word;animals;nouns;nouns;moose;
+40;29;item_40;pony;word;animals;nouns;nouns;pony;NA
+41;23;item_41;mouse;word;animals;nouns;nouns;mouse;
+41;23;item_41;cow;word;animals;nouns;nouns;cow;NA
+41;23;item_41;puppy;word;animals;nouns;nouns;puppy;NA
+42;24;item_42;owl;word;animals;nouns;nouns;owl;
+42;24;item_42;crocodile;word;animals;nouns;nouns;crocodile;NA
+42;24;item_42;sheep;word;animals;nouns;nouns;sheep;NA
+43;27;item_43;penguin;word;animals;nouns;nouns;penguin;
+43;27;item_43;deer;word;animals;nouns;nouns;deer;NA
+43;27;item_43;spider;word;animals;nouns;nouns;spider;NA
+44;21;item_44;pig;word;animals;nouns;nouns;pig;
+44;21;item_44;dog;word;animals;nouns;nouns;dog;NA
+44;21;item_44;squirrel;word;animals;nouns;nouns;squirrel;NA
+45;27;item_45;pony;word;animals;nouns;nouns;pony;
+45;27;item_45;tiger;word;animals;nouns;nouns;tiger;NA
+46;23;item_46;puppy;word;animals;nouns;nouns;puppy;
+46;23;item_46;lamb;word;animals;nouns;nouns;lamb;NA
+46;23;item_46;turkey;word;animals;nouns;nouns;turkey;NA
+47;26;item_47;rooster;word;animals;nouns;nouns;rooster;
+47;26;item_47;lion;word;animals;nouns;nouns;lion;NA
+47;26;item_47;turtle;word;animals;nouns;nouns;turtle;NA
+48;23;item_48;sheep;word;animals;nouns;nouns;sheep;
+48;23;item_48;monkey;word;animals;nouns;nouns;monkey;NA
+48;23;item_48;aeroplane / plane;word;vehicles;nouns;nouns;airplane;NA
+49;25;item_49;squirrel;word;animals;nouns;nouns;squirrel;
+49;25;item_49;mouse;word;animals;nouns;nouns;mouse;NA
+49;25;item_49;bicycle / bike;word;vehicles;nouns;nouns;bicycle;NA
+50;23;item_50;teddybear;word;animals;nouns;nouns;teddybear;
+50;23;item_50;tiger;word;animals;nouns;nouns;tiger;NA
+50;23;item_50;boat;word;vehicles;nouns;nouns;boat;NA
+51;25;item_51;tiger;word;animals;nouns;nouns;tiger;
+51;25;item_51;turkey;word;animals;nouns;nouns;turkey;NA
+51;25;item_51;lorry / truck;word;vehicles;nouns;nouns;truck;NA
+52;26;item_52;turkey;word;animals;nouns;nouns;turkey;
+52;26;item_52;turtle;word;animals;nouns;nouns;turtle;NA
+52;26;item_52;motor-bike;word;vehicles;nouns;nouns;motorcycle;NA
+53;23;item_53;turtle;word;animals;nouns;nouns;turtle;
+53;23;item_53;bus;word;vehicles;nouns;nouns;bus;NA
+54;28;item_54;wolf;word;animals;nouns;nouns;wolf;
+54;28;item_54;car;word;vehicles;nouns;nouns;car;NA
+55;24;item_55;zebra;word;animals;nouns;nouns;zebra;
+55;24;item_55;(air)plane;word;vehicles;nouns;nouns;airplane;NA
+55;24;item_55;fire engine;word;vehicles;nouns;nouns;firetruck;NA
+56;21;item_56;airplane;word;vehicles;nouns;nouns;airplane;
+56;21;item_56;bicycle/bike;word;vehicles;nouns;nouns;bicycle;NA
+56;21;item_56;pushchair / buggy;word;vehicles;nouns;nouns;stoller;NA
+57;22;item_57;bicycle;word;vehicles;nouns;nouns;bicycle;
+57;22;item_57;boat;word;vehicles;nouns;nouns;boat;NA
+57;22;item_57;train;word;vehicles;nouns;nouns;train;NA
+58;20;item_58;boat;word;vehicles;nouns;nouns;boat;
+58;20;item_58;bus;word;vehicles;nouns;nouns;bus;NA
+58;20;item_58;ball;word;toys;nouns;nouns;ball;NA
+59;20;item_59;bus;word;vehicles;nouns;nouns;bus;
+59;20;item_59;car;word;vehicles;nouns;nouns;car;NA
+59;20;item_59;balloon;word;toys;nouns;nouns;balloon;NA
+60;21;item_60;car;word;vehicles;nouns;nouns;car;
+60;21;item_60;fire truck/engine;word;vehicles;nouns;nouns;firetruck;NA
+60;21;item_60;block / brick;word;toys;nouns;nouns;block;NA
+61;23;item_61;firetruck;word;vehicles;nouns;nouns;firetruck;
+61;23;item_61;book;word;toys;nouns;nouns;book;NA
+62;24;item_62;helicopter;word;vehicles;nouns;nouns;helicopter;
+62;24;item_62;motorbike;word;vehicles;nouns;nouns;motorcycle;NA
+62;24;item_62;bubble;word;toys;nouns;nouns;bubbles;NA
+63;25;item_63;motorcycle;word;vehicles;nouns;nouns;motorcycle;
+63;25;item_63;pram;word;vehicles;nouns;nouns;stroller;NA
+63;25;item_63;doll;word;toys;nouns;nouns;doll;NA
+64;30;item_64;sled;word;vehicles;nouns;nouns;sled;
+64;30;item_64;stroller;word;vehicles;nouns;nouns;stroller;NA
+64;30;item_64;pen;word;toys;nouns;nouns;pen;NA
+65;25;item_65;stroller;word;vehicles;nouns;nouns;stroller;
+65;25;item_65;tractor;word;vehicles;nouns;nouns;tractor;NA
+65;25;item_65;teddy bear;word;toys;nouns;nouns;teddybear;NA
+66;24;item_66;tractor;word;vehicles;nouns;nouns;tractor;
+66;24;item_66;train;word;vehicles;nouns;nouns;train;NA
+66;24;item_66;toy;word;toys;nouns;nouns;toy (object);NA
+67;22;item_67;train;word;vehicles;nouns;nouns;train;
+67;22;item_67;apple;word;food_drink;nouns;nouns;apple;NA
+68;27;item_68;tricycle;word;vehicles;nouns;nouns;tricycle;
+68;27;item_68;truck;word;vehicles;nouns;nouns;truck;NA
+68;27;item_68;banana;word;food_drink;nouns;nouns;banana;NA
+69;19;item_69;truck;word;vehicles;nouns;nouns;truck;
+69;19;item_69;ball;word;toys;nouns;nouns;ball;NA
+69;19;item_69;biscuit;word;food_drink;nouns;nouns;biscuit;NA
+70;18;item_70;ball;word;toys;nouns;nouns;ball;
+70;18;item_70;balloon;word;toys;nouns;nouns;balloon;NA
+70;18;item_70;bread;word;food_drink;nouns;nouns;bread;NA
+71;21;item_71;balloon;word;toys;nouns;nouns;balloon;
+71;21;item_71;butter;word;food_drink;nouns;nouns;butter;NA
+72;25;item_72;bat;word;toys;nouns;nouns;bat;
+72;25;item_72;block/brick;word;toys;nouns;nouns;block;NA
+72;25;item_72;cake;word;food_drink;nouns;nouns;cake;NA
+73;21;item_73;block;word;toys;nouns;nouns;block;
+73;21;item_73;book;word;toys;nouns;nouns;book;NA
+73;21;item_73;carrot;word;food_drink;nouns;nouns;carrots;NA
+74;19;item_74;book;word;toys;nouns;nouns;book;
+74;19;item_74;bubbles;word;toys;nouns;nouns;bubbles;NA
+74;19;item_74;cereal;word;food_drink;nouns;nouns;cereal;NA
+75;20;item_75;bubbles;word;toys;nouns;nouns;bubbles;
+75;20;item_75;crayon;word;toys;nouns;nouns;crayon;NA
+75;20;item_75;cheese;word;food_drink;nouns;nouns;cheese;NA
+76;26;item_76;chalk;word;toys;nouns;nouns;chalk;
+76;26;item_76;doll;word;toys;nouns;nouns;doll;NA
+76;26;item_76;chicken;word;food_drink;nouns;nouns;chicken (food);NA
+77;24;item_77;crayon;word;toys;nouns;nouns;crayon;
+78;24;item_78;doll;word;toys;nouns;nouns;doll;
+78;24;item_78;coffee;word;food_drink;nouns;nouns;coffee;NA
+79;25;item_79;game;word;toys;nouns;nouns;game;
+79;25;item_79;pen;word;toys;nouns;nouns;pen;NA
+79;25;item_79;drink;word;food_drink;nouns;nouns;drink (beverage);NA
+80;28;item_80;glue;word;toys;nouns;nouns;glue;
+80;28;item_80;egg;word;food_drink;nouns;nouns;egg;NA
+81;24;item_81;pen;word;toys;nouns;nouns;pen;
+81;24;item_81;fish;word;food_drink;nouns;nouns;fish (food);NA
+82;25;item_82;pencil;word;toys;nouns;nouns;pencil;
+82;25;item_82;puzzle;word;toys;nouns;nouns;present;NA
+82;25;item_82;food;word;food_drink;nouns;nouns;food;NA
+83;26;item_83;play dough;word;toys;nouns;nouns;play dough;
+83;26;item_83;ice cream;word;food_drink;nouns;nouns;ice cream;NA
+84;24;item_84;present;word;toys;nouns;nouns;present;
+84;24;item_84;teddy bear;word;toys;nouns;nouns;teddybear;NA
+84;24;item_84;jam;word;food_drink;nouns;nouns;jam;NA
+85;23;item_85;puzzle;word;toys;nouns;nouns;puzzle;
+85;23;item_85;toy;word;toys;nouns;nouns;toy (object);NA
+85;23;item_85;juice;word;food_drink;nouns;nouns;juice;NA
+86;24;item_86;story;word;toys;nouns;nouns;story;
+86;24;item_86;apple;word;food_drink;nouns;nouns;apple;NA
+86;24;item_86;meat;word;food_drink;nouns;nouns;meat;NA
+87;20;item_87;toy (object);word;toys;nouns;nouns;toy (object);
+87;20;item_87;banana;word;food_drink;nouns;nouns;banana;NA
+87;20;item_87;milk;word;food_drink;nouns;nouns;milk;NA
+88;20;item_88;apple;word;food_drink;nouns;nouns;apple;
+88;20;item_88;beans;word;food_drink;nouns;nouns;beans;NA
+88;20;item_88;orange;word;food_drink;nouns;nouns;orange (food);NA
+89;24;item_89;applesauce;word;food_drink;nouns;nouns;applesauce;
+89;24;item_89;biscuit/bickie;word;food_drink;nouns;nouns;cookie;NA
+89;24;item_89;pasta / spaghetti;word;food_drink;nouns;nouns;pasta;NA
+90;19;item_90;banana;word;food_drink;nouns;nouns;banana;
+90;19;item_90;bread;word;food_drink;nouns;nouns;bread;NA
+90;19;item_90;peas;word;food_drink;nouns;nouns;peas;NA
+91;25;item_91;beans;word;food_drink;nouns;nouns;beans;
+91;25;item_91;butter;word;food_drink;nouns;nouns;butter;NA
+91;25;item_91;pizza;word;food_drink;nouns;nouns;pizza;NA
+92;22;item_92;bread;word;food_drink;nouns;nouns;bread;
+92;22;item_92;cake;word;food_drink;nouns;nouns;cake;NA
+93;24;item_93;butter;word;food_drink;nouns;nouns;butter;
+93;24;item_93;carrot;word;food_drink;nouns;nouns;carrots;NA
+93;24;item_93;tea;word;food_drink;nouns;nouns;tea;NA
+94;23;item_94;cake;word;food_drink;nouns;nouns;cake;
+94;23;item_94;cereal;word;food_drink;nouns;nouns;cereal;NA
+94;23;item_94;toast;word;food_drink;nouns;nouns;toast;NA
+95;22;item_95;candy;word;food_drink;nouns;nouns;candy;
+95;22;item_95;cheese;word;food_drink;nouns;nouns;cheese;NA
+95;22;item_95;water;word;food_drink;nouns;nouns;water (beverage);NA
+96;23;item_96;carrots;word;food_drink;nouns;nouns;carrots;
+96;23;item_96;chicken;word;food_drink;nouns;nouns;chicken (food);NA
+96;23;item_96;arm;word;body_parts;nouns;nouns;arm;NA
+97;23;item_97;cereal;word;food_drink;nouns;nouns;cereal;
+97;23;item_97;chocolate;word;food_drink;nouns;nouns;chocolate;NA
+97;23;item_97;belly button / tummy button;word;body_parts;nouns;nouns;belly button;NA
+98;25;item_98;cheerios;word;food_drink;nouns;nouns;cheerios;
+98;25;item_98;cheek;word;body_parts;nouns;nouns;cheek;NA
+99;20;item_99;cheese;word;food_drink;nouns;nouns;cheese;
+99;20;item_99;coffee;word;food_drink;nouns;nouns;coffee;NA
+99;20;item_99;ear;word;body_parts;nouns;nouns;ear;NA
+100;23;item_100;chicken (food);word;food_drink;nouns;nouns;chicken (food);
+100;23;item_100;coke;word;food_drink;nouns;nouns;soda;NA
+100;23;item_100;eye;word;body_parts;nouns;nouns;eye;NA
+101;26;item_101;chocolate;word;food_drink;nouns;nouns;chocolate;
+101;26;item_101;face;word;body_parts;nouns;nouns;face;NA
+102;25;item_102;coffee;word;food_drink;nouns;nouns;coffee;
+102;25;item_102;finger;word;body_parts;nouns;nouns;finger;NA
+103;27;item_103;coke;word;food_drink;nouns;nouns;coke;
+103;27;item_103;fish;word;food_drink;nouns;nouns;fish (food);NA
+103;27;item_103;foot;word;body_parts;nouns;nouns;foot;NA
+104;21;item_104;cookie;word;food_drink;nouns;nouns;cookie;
+104;21;item_104;food;word;food_drink;nouns;nouns;food;NA
+104;21;item_104;tongue;word;body_parts;nouns;nouns;tongue;NA
+105;24;item_105;corn;word;food_drink;nouns;nouns;corn;
+105;24;item_105;grapes;word;food_drink;nouns;nouns;grapes;NA
+105;24;item_105;tooth;word;body_parts;nouns;nouns;tooth;NA
+106;21;item_106;cracker;word;food_drink;nouns;nouns;cracker;
+106;21;item_106;hair;word;body_parts;nouns;nouns;hair;NA
+107;26;item_107;donut;word;food_drink;nouns;nouns;donut;
+107;26;item_107;hand;word;body_parts;nouns;nouns;hand;NA
+108;22;item_108;drink (beverage);word;food_drink;nouns;nouns;drink (beverage);
+108;22;item_108;ice cream;word;food_drink;nouns;nouns;ice cream;NA
+108;22;item_108;head;word;body_parts;nouns;nouns;head;NA
+109;23;item_109;egg;word;food_drink;nouns;nouns;egg;
+109;23;item_109;jam;word;food_drink;nouns;nouns;jam;NA
+109;23;item_109;knee;word;body_parts;nouns;nouns;knee;NA
+110;23;item_110;fish (food);word;food_drink;nouns;nouns;fish (food);
+110;23;item_110;leg;word;body_parts;nouns;nouns;leg;NA
+111;23;item_111;food;word;food_drink;nouns;nouns;food;
+111;23;item_111;juice;word;food_drink;nouns;nouns;juice;NA
+111;23;item_111;nail;word;body_parts;nouns;nouns;nail (body part);NA
+112;23;item_112;french fries;word;food_drink;nouns;nouns;french fries;
+112;23;item_112;lolly;word;food_drink;nouns;nouns;lollipop;NA
+112;23;item_112;nose;word;body_parts;nouns;nouns;nose;NA
+113;23;item_113;grapes;word;food_drink;nouns;nouns;grapes;
+113;23;item_113;toe;word;body_parts;nouns;nouns;toe;NA
+114;27;item_114;green beans;word;food_drink;nouns;nouns;green beans;
+114;27;item_114;meat;word;food_drink;nouns;nouns;meat;NA
+114;27;item_114;tummy;word;body_parts;nouns;nouns;tummy;NA
+115;25;item_115;gum;word;food_drink;nouns;nouns;gum;
+115;25;item_115;milk;word;food_drink;nouns;nouns;milk;NA
+115;25;item_115;mouth;word;body_parts;nouns;nouns;mouth;NA
+116;25;item_116;hamburger;word;food_drink;nouns;nouns;hamburger;
+116;25;item_116;bib;word;clothing;nouns;nouns;bib;NA
+117;23;item_117;ice;word;food_drink;nouns;nouns;ice;
+117;23;item_117;noodles;word;food_drink;nouns;nouns;noodles;NA
+117;23;item_117;boot(s);word;clothing;nouns;nouns;boots;NA
+118;23;item_118;ice cream;word;food_drink;nouns;nouns;ice cream;
+118;23;item_118;button;word;clothing;nouns;nouns;button;NA
+119;27;item_119;jello;word;food_drink;nouns;nouns;jello;
+119;27;item_119;orange;word;food_drink;nouns;nouns;orange (food);NA
+119;27;item_119;coat;word;clothing;nouns;nouns;coat;NA
+120;27;item_120;jelly;word;food_drink;nouns;nouns;jelly;
+120;27;item_120;dress;word;clothing;nouns;nouns;dress (object);NA
+121;20;item_121;juice;word;food_drink;nouns;nouns;juice;
+121;20;item_121;pizza;word;food_drink;nouns;nouns;pizza;NA
+121;20;item_121;glasses / specs;word;clothing;nouns;nouns;glasses;NA
+122;27;item_122;lollipop;word;food_drink;nouns;nouns;lollipop;
+122;27;item_122;hat;word;clothing;nouns;nouns;hat;NA
+123;26;item_123;meat;word;food_drink;nouns;nouns;meat;
+123;26;item_123;potato;word;food_drink;nouns;nouns;potato;NA
+123;26;item_123;jacket;word;clothing;nouns;nouns;jacket;NA
+124;27;item_124;melon;word;food_drink;nouns;nouns;melon;
+124;27;item_124;jeans;word;clothing;nouns;nouns;jeans;NA
+125;21;item_125;milk;word;food_drink;nouns;nouns;milk;
+125;21;item_125;pudding;word;food_drink;nouns;nouns;pudding;NA
+125;21;item_125;jumper / sweater;word;clothing;nouns;nouns;sweater;NA
+126;26;item_126;muffin;word;food_drink;nouns;nouns;muffin;
+126;26;item_126;nappy;word;clothing;nouns;nouns;diaper;NA
+127;25;item_127;noodles;word;food_drink;nouns;nouns;pasta;
+127;25;item_127;raisin;word;food_drink;nouns;nouns;raisin;NA
+127;25;item_127;necklace;word;clothing;nouns;nouns;necklace;NA
+128;28;item_128;nuts;word;food_drink;nouns;nouns;nuts;
+128;28;item_128;pyjamas;word;clothing;nouns;nouns;pajamas;NA
+129;23;item_129;orange (food);word;food_drink;nouns;nouns;orange (food);
+129;23;item_129;sandwich;word;food_drink;nouns;nouns;sandwich;NA
+129;23;item_129;shirt;word;clothing;nouns;nouns;shirt;NA
+130;24;item_130;pancake;word;food_drink;nouns;nouns;pancake;
+130;24;item_130;soup;word;food_drink;nouns;nouns;soup;NA
+130;24;item_130;shoe;word;clothing;nouns;nouns;shoe;NA
+131;25;item_131;peas;word;food_drink;nouns;nouns;peas;
+131;25;item_131;spaghetti;word;food_drink;nouns;nouns;spaghetti;NA
+131;25;item_131;shorts;word;clothing;nouns;nouns;shorts;NA
+132;24;item_132;peanut butter;word;food_drink;nouns;nouns;peanut butter;
+132;24;item_132;sock;word;clothing;nouns;nouns;sock;NA
+133;25;item_133;pickle;word;food_drink;nouns;nouns;pickle;
+133;25;item_133;toast;word;food_drink;nouns;nouns;toast;NA
+133;25;item_133;trousers;word;clothing;nouns;nouns;pants;NA
+134;22;item_134;pizza;word;food_drink;nouns;nouns;pizza;
+134;22;item_134;(tomato) sauce;word;food_drink;nouns;nouns;sauce;NA
+134;22;item_134;zip;word;clothing;nouns;nouns;zipper;NA
+135;24;item_135;popcorn;word;food_drink;nouns;nouns;popcorn;
+135;24;item_135;bath / bathtub;word;clothing;nouns;nouns;bathtub;NA
+136;26;item_136;popsicle;word;food_drink;nouns;nouns;popsicle;
+136;26;item_136;bathroom;word;furniture_rooms;nouns;nouns;bathroom;NA
+137;24;item_137;potato chip;word;food_drink;nouns;nouns;chips;
+137;24;item_137;bed;word;furniture_rooms;nouns;nouns;bed;NA
+138;25;item_138;potato;word;food_drink;nouns;nouns;potato;
+138;25;item_138;bedroom;word;furniture_rooms;nouns;nouns;bedroom;NA
+139;24;item_139;pretzel;word;food_drink;nouns;nouns;pretzel;
+139;24;item_139;drink;word;food_drink;nouns;nouns;drink (beverage);NA
+139;24;item_139;chair;word;furniture_rooms;nouns;nouns;chair;NA
+140;28;item_140;pudding;word;food_drink;nouns;nouns;pudding;
+140;28;item_140;egg;word;food_drink;nouns;nouns;egg;NA
+140;28;item_140;cooker / stove / oven;word;furniture_rooms;nouns;nouns;stove;NA
+141;26;item_141;pumpkin;word;food_drink;nouns;nouns;pumpkin;
+141;26;item_141;pancake;word;food_drink;nouns;nouns;pancake;NA
+141;26;item_141;cot;word;furniture_rooms;nouns;nouns;crib;NA
+142;23;item_142;raisin;word;food_drink;nouns;nouns;raisin;
+142;23;item_142;pasta;word;food_drink;nouns;nouns;pasta;NA
+142;23;item_142;door;word;furniture_rooms;nouns;nouns;door;NA
+143;28;item_143;salt;word;food_drink;nouns;nouns;salt;
+143;28;item_143;drawer;word;furniture_rooms;nouns;nouns;drawer;NA
+144;25;item_144;sandwich;word;food_drink;nouns;nouns;sandwich;
+144;25;item_144;peas;word;food_drink;nouns;nouns;peas;NA
+144;25;item_144;garage;word;furniture_rooms;nouns;nouns;garage;NA
+145;27;item_145;sauce;word;food_drink;nouns;nouns;sauce;
+145;27;item_145;high chair;word;furniture_rooms;nouns;nouns;high chair;NA
+146;27;item_146;soda/pop;word;food_drink;nouns;nouns;soda;
+146;27;item_146;kitchen;word;furniture_rooms;nouns;nouns;kitchen;NA
+147;24;item_147;soup;word;food_drink;nouns;nouns;soup;
+147;24;item_147;water;word;food_drink;nouns;nouns;water (beverage);NA
+147;24;item_147;living room;word;furniture_rooms;nouns;nouns;living room;NA
+148;24;item_148;spaghetti;word;food_drink;nouns;nouns;pasta;
+148;24;item_148;yoghurt;word;food_drink;nouns;nouns;yogurt;NA
+148;24;item_148;play pen;word;furniture_rooms;nouns;nouns;play pen;NA
+149;25;item_149;strawberry;word;food_drink;nouns;nouns;strawberry;
+149;25;item_149;beanie;word;clothing;nouns;nouns;cap;NA
+149;25;item_149;potty;word;furniture_rooms;nouns;nouns;potty;NA
+150;25;item_150;toast;word;food_drink;nouns;nouns;toast;
+150;25;item_150;refrigerator / fridge;word;furniture_rooms;nouns;nouns;refrigerator;NA
+151;29;item_151;tuna;word;food_drink;nouns;nouns;tuna;
+151;29;item_151;bib;word;clothing;nouns;nouns;bib;NA
+151;29;item_151;rocking chair;word;furniture_rooms;nouns;nouns;rocking chair;NA
+152;30;item_152;vanilla;word;food_drink;nouns;nouns;vanilla;
+152;30;item_152;boot(s);word;clothing;nouns;nouns;boots;NA
+152;30;item_152;settee / sofa;word;furniture_rooms;nouns;nouns;couch;NA
+153;27;item_153;vitamins;word;food_drink;nouns;nouns;vitamins;
+153;27;item_153;button;word;clothing;nouns;nouns;button;NA
+153;27;item_153;sink;word;furniture_rooms;nouns;nouns;sink;NA
+154;21;item_154;water (beverage);word;food_drink;nouns;nouns;water (beverage);
+154;21;item_154;coat;word;clothing;nouns;nouns;coat;NA
+154;21;item_154;stairs;word;furniture_rooms;nouns;nouns;stairs;NA
+155;24;item_155;yogurt;word;food_drink;nouns;nouns;yogurt;
+155;24;item_155;dress;word;clothing;nouns;nouns;dress (object);NA
+155;24;item_155;table;word;furniture_rooms;nouns;nouns;table;NA
+156;27;item_156;beads;word;clothing;nouns;nouns;beads;
+156;27;item_156;hat;word;clothing;nouns;nouns;hat;NA
+156;27;item_156;TV / television;word;furniture_rooms;nouns;nouns;tv;NA
+157;26;item_157;belt;word;clothing;nouns;nouns;belt;
+157;26;item_157;jacket;word;clothing;nouns;nouns;jacket;NA
+157;26;item_157;window;word;furniture_rooms;nouns;nouns;window;NA
+158;24;item_158;bib;word;clothing;nouns;nouns;bib;
+158;24;item_158;jeans;word;clothing;nouns;nouns;jeans;NA
+158;24;item_158;beach;word;outside;nouns;nouns;beach;NA
+159;23;item_159;boots;word;clothing;nouns;nouns;boots;
+159;23;item_159;jumper;word;clothing;nouns;nouns;sweater;NA
+159;23;item_159;bucket;word;outside;nouns;nouns;bucket;NA
+160;23;item_160;button;word;clothing;nouns;nouns;button;
+160;23;item_160;nappy;word;clothing;nouns;nouns;diaper;NA
+160;23;item_160;church;word;outside;nouns;nouns;church;NA
+161;23;item_161;coat;word;clothing;nouns;nouns;coat;
+161;23;item_161;necklace;word;clothing;nouns;nouns;necklace;NA
+161;23;item_161;flower;word;outside;nouns;nouns;flower;NA
+162;21;item_162;diaper;word;clothing;nouns;nouns;diaper;
+162;21;item_162;pyjamas/jamies;word;clothing;nouns;nouns;pajamas;NA
+162;21;item_162;garden;word;outside;nouns;nouns;garden;NA
+163;25;item_163;dress (object);word;clothing;nouns;nouns;dress (object);
+163;25;item_163;pants;word;clothing;nouns;nouns;pants;NA
+163;25;item_163;house;word;outside;nouns;nouns;house;NA
+164;26;item_164;gloves;word;clothing;nouns;nouns;gloves;
+164;26;item_164;shirt;word;clothing;nouns;nouns;shirt;NA
+164;26;item_164;moon;word;outside;nouns;nouns;moon;NA
+165;19;item_165;hat;word;clothing;nouns;nouns;hat;
+165;19;item_165;shoe(s);word;clothing;nouns;nouns;shoe;NA
+165;19;item_165;sky;word;outside;nouns;nouns;sky;NA
+166;24;item_166;jacket;word;clothing;nouns;nouns;jacket;
+166;24;item_166;shorts;word;clothing;nouns;nouns;shorts;NA
+166;24;item_166;slide;word;outside;nouns;nouns;slide (object);NA
+167;27;item_167;jeans;word;clothing;nouns;nouns;jeans;
+167;27;item_167;slipper(s);word;clothing;nouns;nouns;slipper;NA
+167;27;item_167;snow;word;outside;nouns;nouns;snow;NA
+168;26;item_168;mittens;word;clothing;nouns;nouns;mittens;
+168;26;item_168;sock(s);word;clothing;nouns;nouns;sock;NA
+168;26;item_168;spade;word;outside;nouns;nouns;spade;NA
+169;25;item_169;necklace;word;clothing;nouns;nouns;necklace;
+169;25;item_169;star;word;outside;nouns;nouns;star;NA
+170;24;item_170;pajamas;word;clothing;nouns;nouns;pajamas;
+170;24;item_170;thongs;word;clothing;nouns;nouns;sandals;NA
+170;24;item_170;stone;word;outside;nouns;nouns;stone;NA
+171;23;item_171;pants;word;clothing;nouns;nouns;pants;
+171;23;item_171;underpants/undies;word;clothing;nouns;nouns;underpants;NA
+171;23;item_171;sun;word;outside;nouns;nouns;sun;NA
+173;23;item_173;shirt;word;clothing;nouns;nouns;shirt;
+173;23;item_173;park;word;outside;nouns;nouns;park;NA
+174;20;item_174;shoe;word;clothing;nouns;nouns;shoe;
+174;20;item_174;arm;word;body_parts;nouns;nouns;arm;NA
+174;20;item_174;party;word;outside;nouns;nouns;party;NA
+175;24;item_175;shorts;word;clothing;nouns;nouns;shorts;
+175;24;item_175;bellybutton/navel;word;body_parts;nouns;nouns;belly button;NA
+175;24;item_175;pool;word;outside;nouns;nouns;pool;NA
+176;26;item_176;slipper;word;clothing;nouns;nouns;slipper;
+176;26;item_176;breasts;word;body_parts;nouns;nouns;breast;NA
+176;26;item_176;rain;word;outside;nouns;nouns;rain;NA
+177;28;item_177;sneaker;word;clothing;nouns;nouns;sneaker;
+177;28;item_177;bottom;word;body_parts;nouns;nouns;butt;NA
+177;28;item_177;school;word;outside;nouns;nouns;school;NA
+179;22;item_179;sock;word;clothing;nouns;nouns;sock;
+179;22;item_179;chin;word;body_parts;nouns;nouns;chin;NA
+179;22;item_179;swing;word;outside;nouns;nouns;swing (object);NA
+180;23;item_180;sweater;word;clothing;nouns;nouns;sweater;
+180;23;item_180;ear;word;body_parts;nouns;nouns;ear;NA
+180;23;item_180;tree;word;outside;nouns;nouns;tree;NA
+181;30;item_181;tights;word;clothing;nouns;nouns;tights;
+181;30;item_181;eye;word;body_parts;nouns;nouns;eye;NA
+181;30;item_181;wall;word;outside;nouns;nouns;wall;NA
+182;27;item_182;underpants;word;clothing;nouns;nouns;underpants;
+182;27;item_182;face;word;body_parts;nouns;nouns;face;NA
+182;27;item_182;water;word;outside;nouns;nouns;water (not beverage);NA
+183;24;item_183;zipper;word;clothing;nouns;nouns;zipper;
+183;24;item_183;finger(s);word;body_parts;nouns;nouns;finger;NA
+183;24;item_183;work;word;outside;nouns;nouns;work (place);NA
+184;28;item_184;ankle;word;body_parts;nouns;nouns;ankle;
+184;28;item_184;foot/feet;word;body_parts;nouns;nouns;foot;NA
+184;28;item_184;zoo;word;outside;nouns;nouns;zoo;NA
+185;22;item_185;arm;word;body_parts;nouns;nouns;arm;
+185;22;item_185;hair;word;body_parts;nouns;nouns;hair;NA
+185;22;item_185;bin;word;household;nouns;nouns;basket;NA
+186;21;item_186;belly button;word;body_parts;nouns;nouns;belly button;
+186;21;item_186;hand;word;body_parts;nouns;nouns;hand;NA
+186;21;item_186;blanket;word;household;nouns;nouns;blanket;NA
+187;22;item_187;buttocks/bottom*;word;body_parts;nouns;nouns;butt;
+187;22;item_187;head;word;body_parts;nouns;nouns;head;NA
+187;22;item_187;bottle;word;household;nouns;nouns;bottle;NA
+188;23;item_188;cheek;word;body_parts;nouns;nouns;cheek;
+188;23;item_188;knee;word;body_parts;nouns;nouns;knee;NA
+188;23;item_188;bowl;word;household;nouns;nouns;bowl;NA
+189;24;item_189;chin;word;body_parts;nouns;nouns;chin;
+189;24;item_189;leg;word;body_parts;nouns;nouns;leg;NA
+189;24;item_189;box;word;household;nouns;nouns;box;NA
+190;21;item_190;ear;word;body_parts;nouns;nouns;ear;
+190;21;item_190;broom;word;household;nouns;nouns;broom;NA
+191;20;item_191;eye;word;body_parts;nouns;nouns;eye;
+191;20;item_191;mouth;word;body_parts;nouns;nouns;mouth;NA
+191;20;item_191;brush;word;household;nouns;nouns;brush (object);NA
+192;24;item_192;face;word;body_parts;nouns;nouns;face;
+192;24;item_192;nail(s);word;body_parts;nouns;nouns;nail (body part);NA
+192;24;item_192;clock;word;household;nouns;nouns;clock;NA
+193;23;item_193;finger;word;body_parts;nouns;nouns;finger;
+193;23;item_193;neck;word;body_parts;nouns;nouns;neck;NA
+193;23;item_193;comb;word;household;nouns;nouns;comb (object);NA
+194;21;item_194;foot;word;body_parts;nouns;nouns;foot;
+194;21;item_194;nose;word;body_parts;nouns;nouns;nose;NA
+194;21;item_194;cup;word;household;nouns;nouns;cup;NA
+195;22;item_195;hair;word;body_parts;nouns;nouns;hair;
+195;22;item_195;dish;word;household;nouns;nouns;dish;NA
+196;22;item_196;hand;word;body_parts;nouns;nouns;hand;
+196;22;item_196;stomach/tummy;word;body_parts;nouns;nouns;tummy;NA
+196;22;item_196;dummy;word;household;nouns;nouns;pacifier;NA
+197;22;item_197;head;word;body_parts;nouns;nouns;head;
+197;22;item_197;tooth/teeth;word;body_parts;nouns;nouns;tooth;NA
+197;22;item_197;fork;word;household;nouns;nouns;fork;NA
+198;23;item_198;knee;word;body_parts;nouns;nouns;knee;
+198;23;item_198;toe(s);word;body_parts;nouns;nouns;toe;NA
+198;23;item_198;glass;word;household;nouns;nouns;glass;NA
+199;24;item_199;leg;word;body_parts;nouns;nouns;leg;
+199;24;item_199;tongue;word;body_parts;nouns;nouns;tongue;NA
+199;24;item_199;hammer;word;household;nouns;nouns;hammer;NA
+200;25;item_200;lips;word;body_parts;nouns;nouns;lips;
+200;25;item_200;hoover / vacuum;word;household;nouns;nouns;vacuum;NA
+201;22;item_201;mouth;word;body_parts;nouns;nouns;mouth;
+202;19;item_202;nose;word;body_parts;nouns;nouns;nose;
+202;19;item_202;blanket;word;household;nouns;nouns;blanket;NA
+202;19;item_202;key;word;household;nouns;nouns;keys;NA
+203;21;item_203;owie/boo boo;word;body_parts;nouns;nouns;owie;
+203;21;item_203;bottle;word;household;nouns;nouns;bottle;NA
+203;21;item_203;lamp;word;household;nouns;nouns;lamp;NA
+204;26;item_204;penis*;word;body_parts;nouns;nouns;penis;
+204;26;item_204;box;word;household;nouns;nouns;box;NA
+204;26;item_204;light;word;household;nouns;nouns;light (object);NA
+205;26;item_205;shoulder;word;body_parts;nouns;nouns;shoulder;
+205;26;item_205;bowl;word;household;nouns;nouns;bowl;NA
+205;26;item_205;medicine;word;household;nouns;nouns;medicine;NA
+206;22;item_206;toe;word;body_parts;nouns;nouns;toe;
+206;22;item_206;broom;word;household;nouns;nouns;broom;NA
+206;22;item_206;money;word;household;nouns;nouns;money;NA
+207;24;item_207;tongue;word;body_parts;nouns;nouns;tongue;
+207;24;item_207;brush;word;household;nouns;nouns;brush (object);NA
+207;24;item_207;mug;word;household;nouns;nouns;cup;NA
+208;23;item_208;tooth;word;body_parts;nouns;nouns;tooth;
+208;23;item_208;bucket;word;household;nouns;nouns;bucket;NA
+208;23;item_208;paper;word;household;nouns;nouns;paper;NA
+209;23;item_209;tummy;word;body_parts;nouns;nouns;tummy;
+209;23;item_209;camera;word;household;nouns;nouns;camera;NA
+209;23;item_209;penny;word;household;nouns;nouns;penny;NA
+211;25;item_211;basket;word;household;nouns;nouns;basket;
+211;25;item_211;garbage/rubbish;word;household;nouns;nouns;trash;NA
+211;25;item_211;pillow;word;household;nouns;nouns;pillow;NA
+212;22;item_212;blanket;word;household;nouns;nouns;blanket;
+212;22;item_212;glass;word;household;nouns;nouns;glass;NA
+212;22;item_212;plant;word;household;nouns;nouns;plant;NA
+213;22;item_213;bottle;word;household;nouns;nouns;bottle;
+213;22;item_213;hammer;word;household;nouns;nouns;hammer;NA
+213;22;item_213;plate;word;household;nouns;nouns;plate;NA
+214;24;item_214;bowl;word;household;nouns;nouns;bowl;
+214;24;item_214;jar;word;household;nouns;nouns;jar;NA
+214;24;item_214;purse;word;household;nouns;nouns;purse;NA
+215;23;item_215;box;word;household;nouns;nouns;box;
+215;23;item_215;keys;word;household;nouns;nouns;keys;NA
+215;23;item_215;radio;word;household;nouns;nouns;radio;NA
+216;24;item_216;broom;word;household;nouns;nouns;broom;
+216;24;item_216;knife;word;household;nouns;nouns;knife;NA
+216;24;item_216;rubbish;word;household;nouns;nouns;trash;NA
+217;24;item_217;brush;word;household;nouns;nouns;brush (object);
+217;24;item_217;lamp;word;household;nouns;nouns;lamp;NA
+217;24;item_217;scissors;word;household;nouns;nouns;scissors;NA
+218;25;item_218;bucket;word;household;nouns;nouns;bucket;
+218;25;item_218;light;word;household;nouns;nouns;light (object);NA
+218;25;item_218;soap;word;household;nouns;nouns;soap;NA
+219;25;item_219;camera;word;household;nouns;nouns;camera;
+219;25;item_219;medicine;word;household;nouns;nouns;medicine;NA
+219;25;item_219;spoon;word;household;nouns;nouns;spoon;NA
+220;26;item_220;can (object);word;household;nouns;nouns;can (object);
+220;26;item_220;money;word;household;nouns;nouns;money;NA
+220;26;item_220;telephone;word;household;nouns;nouns;telephone;NA
+221;24;item_221;clock;word;household;nouns;nouns;clock;
+221;24;item_221;toothbrush;word;household;nouns;nouns;toothbrush;NA
+222;25;item_222;comb;word;household;nouns;nouns;comb (object);
+222;25;item_222;plate;word;household;nouns;nouns;plate;NA
+222;25;item_222;towel;word;household;nouns;nouns;towel;NA
+223;22;item_223;cup;word;household;nouns;nouns;cup;
+223;22;item_223;purse/wallet;word;household;nouns;nouns;purse;NA
+223;22;item_223;watch;word;household;nouns;nouns;watch (object);NA
+224;27;item_224;dish;word;household;nouns;nouns;dish;
+224;27;item_224;radio;word;household;nouns;nouns;radio;NA
+225;23;item_225;fork;word;household;nouns;nouns;fork;
+226;26;item_226;garbage;word;household;nouns;nouns;garbage;
+226;26;item_226;scissors;word;household;nouns;nouns;scissors;NA
+227;25;item_227;glass;word;household;nouns;nouns;glass;
+227;25;item_227;soap;word;household;nouns;nouns;soap;NA
+228;23;item_228;glasses;word;household;nouns;nouns;glasses;
+228;23;item_228;spoon;word;household;nouns;nouns;spoon;NA
+229;26;item_229;hammer;word;household;nouns;nouns;hammer;
+230;27;item_230;jar;word;household;nouns;nouns;jar;
+230;27;item_230;telephone/phone;word;household;nouns;nouns;telephone;NA
+231;22;item_231;keys;word;household;nouns;nouns;keys;
+231;22;item_231;tissue;word;household;nouns;nouns;tissue;NA
+232;24;item_232;knife;word;household;nouns;nouns;knife;
+232;24;item_232;toothbrush;word;household;nouns;nouns;toothbrush;NA
+233;27;item_233;lamp;word;household;nouns;nouns;lamp;
+233;27;item_233;clock;word;household;nouns;nouns;clock;NA
+234;22;item_234;light;word;household;nouns;nouns;light (object);
+234;22;item_234;comb;word;household;nouns;nouns;comb (object);NA
+235;24;item_235;medicine;word;household;nouns;nouns;medicine;
+235;24;item_235;cot;word;household;nouns;nouns;crib;NA
+236;23;item_236;money;word;household;nouns;nouns;money;
+236;23;item_236;cup;word;household;nouns;nouns;cup;NA
+237;29;item_237;mop;word;household;nouns;nouns;mop;
+237;29;item_237;dish;word;household;nouns;nouns;dish;NA
+238;27;item_238;nail;word;household;nouns;nouns;nail (object);
+238;27;item_238;fork;word;household;nouns;nouns;fork;NA
+239;25;item_239;napkin;word;household;nouns;nouns;napkin;
+239;25;item_239;mug;word;household;nouns;nouns;cup;NA
+240;23;item_240;paper;word;household;nouns;nouns;paper;
+241;26;item_241;penny;word;household;nouns;nouns;penny;
+241;26;item_241;photo;word;household;nouns;nouns;photos;NA
+242;24;item_242;picture;word;household;nouns;nouns;picture;
+242;24;item_242;picture;word;household;nouns;nouns;picture;NA
+243;23;item_243;pillow;word;household;nouns;nouns;pillow;
+243;23;item_243;pillow;word;household;nouns;nouns;pillow;NA
+244;27;item_244;plant;word;household;nouns;nouns;plant;
+244;27;item_244;plant;word;household;nouns;nouns;plant;NA
+245;24;item_245;plate;word;household;nouns;nouns;plate;
+245;24;item_245;towel;word;household;nouns;nouns;towel;NA
+246;26;item_246;purse;word;household;nouns;nouns;purse;
+247;27;item_247;radio;word;household;nouns;nouns;radio;
+247;27;item_247;vacuum cleaner;word;household;nouns;nouns;vacuum;NA
+248;26;item_248;scissors;word;household;nouns;nouns;scissors;
+248;26;item_248;watch;word;household;nouns;nouns;watch (object);NA
+249;23;item_249;soap;word;household;nouns;nouns;soap;
+249;23;item_249;Bathroom;word;furniture_rooms;nouns;nouns;bathroom;NA
+250;20;item_250;spoon;word;household;nouns;nouns;spoon;
+250;20;item_250;Bath (tub);word;furniture_rooms;nouns;nouns;bathtub;NA
+251;25;item_251;tape;word;household;nouns;nouns;tape;
+251;25;item_251;bed;word;furniture_rooms;nouns;nouns;bed;NA
+252;22;item_252;telephone;word;household;nouns;nouns;telephone;
+252;22;item_252;bedroom;word;furniture_rooms;nouns;nouns;bedroom;NA
+253;26;item_253;tissue/kleenex;word;household;nouns;nouns;tissue;
+254;22;item_254;toothbrush;word;household;nouns;nouns;toothbrush;
+254;22;item_254;chair;word;furniture_rooms;nouns;nouns;chair;NA
+255;23;item_255;towel;word;household;nouns;nouns;towel;
+255;23;item_255;computer;word;furniture_rooms;nouns;nouns;computer;NA
+256;25;item_256;trash;word;household;nouns;nouns;trash;
+256;25;item_256;couch/lounge/sofa;word;furniture_rooms;nouns;nouns;couch;NA
+258;23;item_258;vacuum;word;household;nouns;nouns;vacuum;
+258;23;item_258;door;word;furniture_rooms;nouns;nouns;door;NA
+260;24;item_260;watch (object);word;household;nouns;nouns;watch (object);
+260;24;item_260;fridge;word;furniture_rooms;nouns;nouns;refrigerator;NA
+262;24;item_262;bathroom;word;furniture_rooms;nouns;nouns;bathroom;
+262;24;item_262;high chair;word;furniture_rooms;nouns;nouns;high chair;NA
+263;23;item_263;bathtub;word;furniture_rooms;nouns;nouns;bathtub;
+263;23;item_263;kitchen;word;furniture_rooms;nouns;nouns;kitchen;NA
+264;22;item_264;bed;word;furniture_rooms;nouns;nouns;bed;
+264;22;item_264;living/lounge room;word;furniture_rooms;nouns;nouns;living room;NA
+265;25;item_265;bedroom;word;furniture_rooms;nouns;nouns;bedroom;
+265;25;item_265;oven/stove;word;furniture_rooms;nouns;nouns;oven;NA
+267;22;item_267;chair;word;furniture_rooms;nouns;nouns;chair;
+267;22;item_267;potty;word;furniture_rooms;nouns;nouns;potty;NA
+268;27;item_268;closet;word;furniture_rooms;nouns;nouns;closet;
+268;27;item_268;rocking chair;word;furniture_rooms;nouns;nouns;rocking chair;NA
+269;25;item_269;couch;word;furniture_rooms;nouns;nouns;couch;
+269;25;item_269;room;word;furniture_rooms;nouns;nouns;room;NA
+270;25;item_270;crib;word;furniture_rooms;nouns;nouns;crib;
+270;25;item_270;shower;word;furniture_rooms;nouns;nouns;shower;NA
+271;21;item_271;door;word;furniture_rooms;nouns;nouns;door;
+271;21;item_271;sink;word;furniture_rooms;nouns;nouns;sink;NA
+272;27;item_272;drawer;word;furniture_rooms;nouns;nouns;drawer;
+272;27;item_272;stairs;word;furniture_rooms;nouns;nouns;stairs;NA
+273;27;item_273;dryer;word;furniture_rooms;nouns;nouns;dryer;
+273;27;item_273;table;word;furniture_rooms;nouns;nouns;table;NA
+274;26;item_274;garage;word;furniture_rooms;nouns;nouns;garage;
+274;26;item_274;TV;word;furniture_rooms;nouns;nouns;tv;NA
+275;27;item_275;high chair;word;furniture_rooms;nouns;nouns;high chair;
+275;27;item_275;veranda/porch;word;furniture_rooms;nouns;nouns;porch;NA
+276;25;item_276;kitchen;word;furniture_rooms;nouns;nouns;kitchen;
+276;25;item_276;wardrobe;word;furniture_rooms;nouns;nouns;wardrobe;NA
+277;27;item_277;living room;word;furniture_rooms;nouns;nouns;living room;
+277;27;item_277;washing machine;word;furniture_rooms;nouns;nouns;washing machine;NA
+278;26;item_278;oven;word;furniture_rooms;nouns;nouns;oven;
+278;26;item_278;window;word;furniture_rooms;nouns;nouns;window;NA
+280;29;item_280;porch;word;furniture_rooms;nouns;nouns;porch;
+280;29;item_280;cloud;word;outside;nouns;nouns;cloud;NA
+281;22;item_281;potty;word;furniture_rooms;nouns;nouns;potty;
+282;25;item_282;rocking chair;word;furniture_rooms;nouns;nouns;rocking chair;
+282;25;item_282;flower;word;outside;nouns;nouns;flower;NA
+283;26;item_283;refrigerator;word;furniture_rooms;nouns;nouns;refrigerator;
+284;25;item_284;room;word;furniture_rooms;nouns;nouns;room;
+284;25;item_284;garden;word;outside;nouns;nouns;garden;NA
+285;24;item_285;shower;word;furniture_rooms;nouns;nouns;shower;
+285;24;item_285;grass;word;outside;nouns;nouns;grass;NA
+286;25;item_286;sink;word;furniture_rooms;nouns;nouns;sink;
+287;30;item_287;sofa;word;furniture_rooms;nouns;nouns;sofa;
+287;30;item_287;ladder;word;outside;nouns;nouns;ladder;NA
+288;25;item_288;stairs;word;furniture_rooms;nouns;nouns;stairs;
+289;26;item_289;stove;word;furniture_rooms;nouns;nouns;stove;
+289;26;item_289;moon;word;outside;nouns;nouns;moon;NA
+290;24;item_290;table;word;furniture_rooms;nouns;nouns;table;
+290;24;item_290;pool;word;outside;nouns;nouns;pool;NA
+291;22;item_291;TV;word;furniture_rooms;nouns;nouns;tv;
+291;22;item_291;rain;word;outside;nouns;nouns;rain;NA
+292;25;item_292;window;word;furniture_rooms;nouns;nouns;window;
+292;25;item_292;rock;word;outside;nouns;nouns;rock (object);NA
+293;27;item_293;washing machine;word;furniture_rooms;nouns;nouns;washing machine;
+293;27;item_293;roof;word;outside;nouns;nouns;roof;NA
+294;27;item_294;backyard;word;outside;nouns;nouns;yard;
+295;26;item_295;cloud;word;outside;nouns;nouns;cloud;
+296;27;item_296;flag;word;outside;nouns;nouns;flag;
+296;27;item_296;shovel;word;outside;nouns;nouns;shovel;NA
+297;21;item_297;flower;word;outside;nouns;nouns;flower;
+297;21;item_297;sky;word;outside;nouns;nouns;sky;NA
+298;28;item_298;garden;word;outside;nouns;nouns;garden;
+298;28;item_298;slide;word;outside;nouns;nouns;slide (object);NA
+299;24;item_299;grass;word;outside;nouns;nouns;grass;
+300;26;item_300;hose;word;outside;nouns;nouns;hose;
+300;26;item_300;star;word;outside;nouns;nouns;star;NA
+301;27;item_301;ladder;word;outside;nouns;nouns;ladder;
+301;27;item_301;stick;word;outside;nouns;nouns;stick;NA
+302;27;item_302;lawn mower;word;outside;nouns;nouns;lawn mower;
+302;27;item_302;stone;word;outside;nouns;nouns;stone;NA
+303;23;item_303;moon;word;outside;nouns;nouns;moon;
+303;23;item_303;street;word;outside;nouns;nouns;street;NA
+304;23;item_304;pool;word;outside;nouns;nouns;pool;
+304;23;item_304;sun;word;outside;nouns;nouns;sun;NA
+305;22;item_305;rain;word;outside;nouns;nouns;rain;
+305;22;item_305;swing;word;outside;nouns;nouns;swing (object);NA
+306;22;item_306;rock;word;outside;nouns;nouns;rock (object);
+306;22;item_306;tree;word;outside;nouns;nouns;tree;NA
+307;28;item_307;roof;word;outside;nouns;nouns;roof;
+307;28;item_307;wall;word;outside;nouns;nouns;wall;NA
+308;26;item_308;sandbox;word;outside;nouns;nouns;sandbox;
+308;26;item_308;water;word;outside;nouns;nouns;water (not beverage);NA
+309;27;item_309;shovel;word;outside;nouns;nouns;shovel;
+310;27;item_310;sidewalk;word;outside;nouns;nouns;sidewalk;
+310;27;item_310;wind;word;outside;nouns;nouns;wind;NA
+311;24;item_311;sky;word;outside;nouns;nouns;sky;
+312;23;item_312;slide (object);word;outside;nouns;nouns;slide (object);
+313;25;item_313;snow;word;outside;nouns;nouns;snow;
+314;27;item_314;snowman;word;outside;nouns;nouns;snowman;
+315;29;item_315;sprinkler;word;outside;nouns;nouns;sprinkler;
+316;22;item_316;star;word;outside;nouns;nouns;star;
+317;24;item_317;stick;word;outside;nouns;nouns;stick;
+318;30;item_318;stone;word;outside;nouns;nouns;stone;
+319;25;item_319;street;word;outside;nouns;nouns;street;
+320;23;item_320;sun;word;outside;nouns;nouns;sun;
+321;22;item_321;swing (object);word;outside;nouns;nouns;swing (object);
+322;20;item_322;tree;word;outside;nouns;nouns;tree;
+323;20;item_323;water (not beverage);word;outside;nouns;nouns;water (not beverage);
+324;26;item_324;wind;word;outside;nouns;nouns;wind;
